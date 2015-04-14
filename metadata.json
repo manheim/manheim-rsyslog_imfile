@@ -1,0 +1,11 @@
+{
+  "name": "manheim-rsyslog_imfile",
+  "version": "0.1.0",
+  "author": "Jonathan",
+  "license": "BSD 2-clause",
+  "summary": "Configure rsyslog to watch a file.",
+  "source": "https://github.com/manheim/manheim-rsyslog_imfile",
+  "project_page": "https://github.com/manheim/manheim-rsyslog_imfile",
+  "issues_url": "https://github.com/manheim/manheim-rsyslog_imfile/issues",
+  "tags": ["rsyslog", "logging"]
+}
